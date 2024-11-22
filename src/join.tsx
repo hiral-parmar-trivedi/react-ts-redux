@@ -1,4 +1,3 @@
-
 import React from "react";
 import ReactDOM from "react-dom/client";
 import "./index.css";
@@ -10,7 +9,7 @@ const root = ReactDOM.createRoot(
 );
 root.render(
   <BrowserRouter>
-    <p>Main file</p>
+    <p>Join file</p>
   </BrowserRouter>
 );
 
